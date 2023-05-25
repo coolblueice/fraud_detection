@@ -20,5 +20,5 @@ def model4():
     print ("adding code for ML model 4")
 
 
-print ("model 3 is performing best!")
+print ("model 2 is performing best!")
 print ("This was after running testing data")
